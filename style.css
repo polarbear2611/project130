@@ -1,0 +1,22 @@
+canvas
+{
+    border-radius:3px;
+    border-color:red;
+}
+
+h3
+{
+    border: radius 100px; ;
+}
+
+.play
+{
+    font-size: 25px;
+    width: 130px;
+}
+
+canvas
+{
+    border: 5px solid whitesmoke;
+    border-radius: 200px;
+}
